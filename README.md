@@ -1,3 +1,3 @@
 <a>
-    <img src="https://thirsty-act.surge.sh/badge.svg" alt="green">
+    <img src="badge.svg" alt="green">
 </a>
