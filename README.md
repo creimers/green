@@ -25,5 +25,5 @@ A collection of collections of [awesome](https://github.com/sindresorhus/awesome
     <hr>
     <br>
     <br>
-    <img src="https://thirsty-act.surge.sh/badge.svg" alt="green-badge">
+    <img src="https://furtive-hope.surge.sh/badge.svg" alt="green-badge">
 </div>
