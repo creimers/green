@@ -1,3 +1,3 @@
 <a>
-    <img src="https://raw.githubusercontent.com/creimers/green/master/badge.svg" alt="green">
+    <img src="https://thirsty-act.surge.sh/badge.svg" alt="green">
 </a>
