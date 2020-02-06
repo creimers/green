@@ -11,6 +11,14 @@
 
 A collection of collections of [awesome](https://github.com/sindresorhus/awesome) green tech projects.
 
+## Contents
+
+- [Work](#work)
+
+## Work
+
+- [Jobs](https://github.com/creimers/green-jobs)
+
 <div align="center">
     <br>
     <br>
