@@ -1,4 +1,4 @@
-<svg viewBox="0 0 110 20" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+<svg width="110" height="20" viewBox="0 0 110 20" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
   <path fill="#00cc02" d="M0 0h110v20H0z"/>
   <path fill="#d1d1d1" d="M0 0h34.153v20H0z"/>
   <g transform="translate(-3.89 -7.998) scale(.03584)">

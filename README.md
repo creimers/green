@@ -17,5 +17,5 @@ A collection of collections of [awesome](https://github.com/sindresorhus/awesome
     <hr>
     <br>
     <br>
-    <img src="badge.svg" alt="green-badge" width="110">
+    <img src="https://thirsty-act.surge.sh/badge.svg" alt="green-badge">
 </div>
