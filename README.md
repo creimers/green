@@ -13,7 +13,12 @@ A collection of collections of [awesome](https://github.com/sindresorhus/awesome
 
 ## Contents
 
+- [Software](#software)
 - [Work](#work)
+
+## Software
+
+- [Software](https://github.com/creimers/green-software)
 
 ## Work
 
